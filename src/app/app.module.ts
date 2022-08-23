@@ -13,10 +13,6 @@ import { ShowResultComponent } from './show-result/show-result.component';
 
 const routes = [
   {
-    path: '',
-    component: AppComponent
-  },
-  {
     path: 'timeZoneInput',
     component: TimeZoneInputComponent
   },
